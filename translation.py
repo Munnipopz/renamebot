@@ -27,7 +27,7 @@ This is a @cinema_lokamm Rename Bot!
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
    
-<b>👉 Create Bot Addmin :</b> 👉 <a href="https://t.me/Munnipopz">💝Contact💝</a>
+<b>👉 Create Bot Addmin :</b> 💝 <a href="https://t.me/Munnipopz">Contact💝</a>
 
 --------
 
